@@ -1,0 +1,25 @@
+{
+  "name": "deep-thinking",
+  "version": "1.0.0",
+  "description": "An advanced reasoning skill that enforces structured, step-by-step thinking for complex problem solving.",
+  "author": "shade-solutions",
+  "license": "MIT",
+  "triggers": [
+    "analyze",
+    "solve",
+    "why",
+    "optimize",
+    "strategy",
+    "think deep",
+    "deep thinking",
+    "reasoning"
+  ],
+  "tags": [
+    "reasoning",
+    "thinking",
+    "analysis",
+    "planning",
+    "validation"
+  ],
+  "entrypoint": "SKILL.md"
+}
