@@ -9,7 +9,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/shade-solutions/deep-thinking-skill/pulls)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](https://github.com/shade-solutions/deep-thinking-skill/blob/main/LICENSE)
 [![Claude Code Compatible](https://img.shields.io/badge/Claude--Code-Compatible-blue.svg?style=flat-square)](https://github.com/anthropic/claude-code)
-[![Twitter Follow](https://img.shields.io/twitter/follow/shaswatraj?style=social)](https://twitter.com/shaswatraj)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sh20raj?style=social)](https://twitter.com/sh20raj)
 
 </div>
 
