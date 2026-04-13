@@ -1,8 +1,10 @@
 {
   "name": "deep-thinking",
-  "version": "1.0.0",
-  "description": "An advanced reasoning skill that enforces structured, step-by-step thinking for complex problem solving.",
+  "version": "2.0.0",
+  "description": "A military-grade reasoning operating system for AI agents. Enforces 7-phase structured thinking with confidence scoring, failure mode detection, adversarial verification, and multi-path analysis to eliminate hallucinations and produce verifiably correct answers.",
   "author": "shade-solutions",
+  "repository": "https://github.com/shade-solutions/deep-thinking-skill",
+  "homepage": "https://github.com/shade-solutions/deep-thinking-skill#readme",
   "license": "MIT",
   "triggers": [
     "analyze",
@@ -12,14 +14,64 @@
     "strategy",
     "think deep",
     "deep thinking",
-    "reasoning"
+    "reasoning",
+    "debug",
+    "architecture",
+    "root cause",
+    "design",
+    "trade-off",
+    "evaluate",
+    "investigate",
+    "plan",
+    "decide",
+    "compare",
+    "review"
   ],
   "tags": [
     "reasoning",
     "thinking",
     "analysis",
     "planning",
-    "validation"
+    "validation",
+    "debugging",
+    "architecture",
+    "decision-making",
+    "problem-solving",
+    "hallucination-reduction",
+    "structured-output",
+    "confidence-scoring",
+    "failure-detection"
   ],
-  "entrypoint": "SKILL.md"
+  "phases": [
+    "activation-check",
+    "problem-intelligence",
+    "decomposition",
+    "systematic-reasoning",
+    "multi-path-analysis",
+    "failure-mode-detection",
+    "confidence-scoring",
+    "structured-output"
+  ],
+  "frameworks": [
+    "5-whys",
+    "fishbone",
+    "c4-model",
+    "atam",
+    "eisenhower-matrix",
+    "rice",
+    "theory-of-constraints",
+    "porters-five-forces",
+    "swot",
+    "fmea",
+    "first-principles",
+    "pareto-analysis"
+  ],
+  "compatibility": {
+    "claude-code": true,
+    "npx-skills": true,
+    "custom-agents": true
+  },
+  "entrypoint": "SKILL.md",
+  "minConfidenceThreshold": 50,
+  "targetConfidence": 85
 }
